@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144fb0e0-634a-4e57-934f-7aa6c0032588" name="Changes" comment="Add files via upload">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deployment/str_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bag_of_words.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Bag_of_words.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deployment/str_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deployment/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
